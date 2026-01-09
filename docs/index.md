@@ -42,7 +42,7 @@ A continuación, puedes acceder a cada una de las secciones del proyecto:
 
 A continuación se muestra una imagen representativa de la página principal:
 
-![Página principal de GameZone](img/home.png)
+![Página principal de GameZone](img/goku-rayo.jpg)
 
 ---
 
