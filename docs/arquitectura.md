@@ -9,4 +9,4 @@ GameZone sigue una arquitectura simple basada en tecnologías web estáticas.
 - **Markdown**: documentación del proyecto.
 
 ## Diagrama
-![Arquitectura del sistema](img/arquitectura.png)
+![Arquitectura del sistema](img/rayo.jpg)
