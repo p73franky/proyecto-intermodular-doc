@@ -1,10 +1,5 @@
-# Instalación
+# Introducción
 
-Para utilizar GameZone de manera local sigue estos pasos:
+GameZone nace con el objetivo de ofrecer un espacio digital donde los aficionados a los videojuegos puedan informarse sobre los títulos más destacados del mercado.
 
-1. Descarga o clona el repositorio del proyecto.
-2. Abre la carpeta del proyecto.
-3. Accede al archivo `index.html`.
-4. Ábrelo en tu navegador web preferido.
-
-No se requieren dependencias adicionales ni instalación de software externo.
+La página está pensada para ser sencilla, visual y accesible, permitiendo a los usuarios navegar fácilmente entre secciones como noticias, juegos destacados y reseñas.
